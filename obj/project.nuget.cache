@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "avoESVMB/JxIMcwlzvhO9b3zSvKGMwPpYwnX0zOTnByPqHIGoaPt814S+laNZSJZwv1G6WdRHIdB5NLWVE2A7A==",
+  "dgSpecHash": "Zzc5NydDkk84H+0xhRO8NwCfq96Li9snHNoPzpNsrpt+7lPiF/ATk9XEaUxr4CRUhZznjjwkFBZ0nKXqh/5cdg==",
   "success": true,
   "projectFilePath": "/home/marcosllbs/DotNetProjects/HotelAPI/HotelAPI.csproj",
   "expectedPackageFiles": [
     "/home/marcosllbs/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/marcosllbs/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/home/marcosllbs/.nuget/packages/fluentassertions/6.0.0/fluentassertions.6.0.0.nupkg.sha512",
+    "/home/marcosllbs/.nuget/packages/fluentassertions.aspnetcore.mvc/4.2.0/fluentassertions.aspnetcore.mvc.4.2.0.nupkg.sha512",
     "/home/marcosllbs/.nuget/packages/microsoft.aspnetcore/2.2.0/microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "/home/marcosllbs/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/home/marcosllbs/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
