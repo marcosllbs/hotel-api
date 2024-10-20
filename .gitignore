@@ -405,3 +405,5 @@ FodyWeavers.xsd
 *.sarif
 obj/Debug/net8.0/HotelAPI.AssemblyInfo.cs
 obj/Debug/net8.0/HotelAPI.AssemblyInfoInputs.cache
+obj/Debug/net8.0/HotelAPI.AssemblyInfo.cs
+obj/Debug/net8.0/HotelAPI.AssemblyInfoInputs.cache
